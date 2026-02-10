@@ -1,0 +1,14 @@
+{
+  "version": "2.8.0+1",
+  "shortVersion": "2.8.0",
+  "date": "2026-02-10",
+  "mandatory": false,
+  "url": "https://pawan-bari.github.io/my-app-updates/2.8.0+1-windows/release.zip",
+  "platform": "windows",
+  "changes": [
+    {
+      "type": "feat",
+      "message": "Update hosted on GitHub Pages!"
+    }
+  ]
+}
