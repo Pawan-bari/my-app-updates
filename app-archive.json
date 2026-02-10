@@ -1,11 +1,11 @@
 {
   "appName": "ctcma",
-  "description": "Claim Management App",
+  "description": "A new Flutter project.",
   "items": [
     {
       "version": "2.8.0+1",
       "shortVersion": "2.8.0",
-      "date": "2026-02-10",
+      "date": 1770681600000, 
       "mandatory": false,
       "url": "https://raw.githubusercontent.com/Pawan-bari/my-app-updates/main/2.8.0+1-windows/release.zip",
       "platform": "windows",
