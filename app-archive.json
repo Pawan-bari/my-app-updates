@@ -4,8 +4,8 @@
   "items": [
     {
       "version": "2.8.0+1",
-      "shortVersion": 280,  // ✅ Integer (e.g., 280 for v2.8.0)
-      "date": "2026-02-10",  // ✅ Also changed to string format
+      "shortVersion": 280,
+      "date": "2026-02-10",
       "mandatory": false,
       "url": "https://raw.githubusercontent.com/Pawan-bari/my-app-updates/main/2.8.0+1-windows/release.zip",
       "platform": "windows",
