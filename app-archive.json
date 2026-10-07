@@ -1,20 +1,19 @@
 {
-  "appName": "ctcma",
-  "description": "A new Flutter project.",
+  "schemaVersion": 3,
+  "appName": "Ctcma",
   "items": [
     {
-      "version": "2.8.0+1",
-      "shortVersion": 280,
-      "date": "2026-02-10",
-      "mandatory": false,
-      "url": "https://raw.githubusercontent.com/Pawan-bari/my-app-updates/main/2.8.0+1-windows",
+      "version": "2.7.0",
+      "buildNumber": 1,
       "platform": "windows",
-      "changes": [
-        {
-          "type": "feat",
-          "message": "Update hosted on GitHub Pages!"
-        }
-      ]
+      "channel": "stable",
+      "mandatory": false,
+      "release": "https://raw.githubusercontent.com/PawanBari/my-app-updates/main/releases/stable/2.7.0/build-1/windows/release.json"
     }
-  ]
+  ],
+  "signature": {
+    "algorithm": "ed25519",
+    "publicKeyId": "release-4ea6e7a6de0190f1066c2f21",
+    "value": "GQvUv+XYDNvccqgOoNvs06XaZyEKpVKSJ4opFPK32TeCS8JIyHxZwv8GQPYfDaTk4HOI2vVPou4BsP/65/lJDw=="
+  }
 }
