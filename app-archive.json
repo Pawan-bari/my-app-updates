@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 3,
+  "appName": "Ctcma",
+  "items": [
+    {
+      "version": "2.7.0",
+      "buildNumber": 1,
+      "platform": "windows",
+      "channel": "stable",
+      "mandatory": false,
+      "release": "https://raw.githubusercontent.com/Pawan-Bari/my-app-updates/main/releases/stable/2.7.0/build-1/windows/release.json"
+    }
+  ],
+  "signature": {
+    "algorithm": "ed25519",
+    "publicKeyId": "release-a09c42f624c8fa9f1023e5ad",
+    "value": "WClHzSusguQJXmvlD1nV3SrV60St93Bi43Bnkv2H74T2enZarPkHQqM0pUIDjdhwine4ylwZ+tNTZg21YyIqDQ=="
+  }
+}
