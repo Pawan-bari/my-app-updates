@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "baseUrl": "https://raw.githubusercontent.com/Pawan-Bari/my-app-updates/main/",
+  "localRoot": "C:\\CharterHouse\\charterhouse_desktop_app\\Claim-Management-App-Desktop\\dist\\desktop_updater",
+  "appArchive": {
+    "path": "app-archive.json",
+    "url": "https://raw.githubusercontent.com/Pawan-Bari/my-app-updates/main/app-archive.json"
+  },
+  "release": {
+    "version": "2.7.0",
+    "buildNumber": 1,
+    "platform": "windows",
+    "channel": "stable",
+    "path": "releases/stable/2.7.0/build-1/windows/release.json",
+    "url": "https://raw.githubusercontent.com/Pawan-Bari/my-app-updates/main/releases/stable/2.7.0/build-1/windows/release.json"
+  },
+  "artifact": {
+    "path": "releases/stable/2.7.0/build-1/windows/Ctcma-2.7.0-windows.zip",
+    "url": "https://raw.githubusercontent.com/Pawan-Bari/my-app-updates/main/releases/stable/2.7.0/build-1/windows/Ctcma-2.7.0-windows.zip",
+    "kind": "zip",
+    "sha256": "9a079282ca7d333f91c82c49d2ea31ad03be13026b6fbadb179cdaf1d4e88c05",
+    "length": 41057806
+  }
+}
