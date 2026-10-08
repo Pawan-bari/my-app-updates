@@ -17,11 +17,19 @@
       "channel": "stable",
       "mandatory": false,
       "release": "https://raw.githubusercontent.com/Pawan-Bari/my-app-updates/main/releases/stable/2.7.8/build-1/windows/release.json"
+    },
+    {
+      "version": "2.7.9",
+      "buildNumber": 1,
+      "platform": "windows",
+      "channel": "stable",
+      "mandatory": false,
+      "release": "https://raw.githubusercontent.com/Pawan-Bari/my-app-updates/main/releases/stable/2.7.9/build-1/windows/release.json"
     }
   ],
   "signature": {
     "algorithm": "ed25519",
     "publicKeyId": "release-a09c42f624c8fa9f1023e5ad",
-    "value": "CXxkziLM+gEL6A7TrwtvZi80tetsl1efS1XYgSmb+LutyzpSlN7baQ3Y5tT9Fsqw9RKWiNw90Hq2QpN5yWVXAA=="
+    "value": "bFK1ClstNRqGV2Z5EFX69DJPjuA7rXgrrCZCZ2EMSUqAeQEXD3mwvbhBY9+PCm/xlvN52yHOMGg5Y6Yq146nCA=="
   }
 }

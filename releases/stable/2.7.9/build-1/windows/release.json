@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 3,
+  "packageId": "ctcma",
+  "appName": "Ctcma",
+  "version": "2.7.9",
+  "buildNumber": 1,
+  "platform": "windows",
+  "channel": "stable",
+  "artifact": {
+    "kind": "zip",
+    "url": "https://raw.githubusercontent.com/Pawan-Bari/my-app-updates/main/releases/stable/2.7.9/build-1/windows/Ctcma-2.7.9-windows.zip",
+    "sha256": "3c4118eda2c9760fdc7b8e541497ede73e188b37543dd975e8206df978b68e6a",
+    "length": 41057813
+  },
+  "install": {
+    "strategy": "wholeDirectoryReplace"
+  },
+  "signature": {
+    "algorithm": "ed25519",
+    "publicKeyId": "release-a09c42f624c8fa9f1023e5ad",
+    "value": "6nsuWZKxUf+4bjXJDeqTBCvAUEysDzcL6HZJkUDie7qmW2wTSOa0tcc4Pekx9qFpXBqJaIuUWvNfGQL7xOXhAg=="
+  },
+  "minimumUpdaterVersion": "2.0.0",
+  "generatedAt": "2026-10-08T04:50:40.083319Z"
+}
