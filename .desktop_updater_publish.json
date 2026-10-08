@@ -7,18 +7,18 @@
     "url": "https://raw.githubusercontent.com/Pawan-Bari/my-app-updates/main/app-archive.json"
   },
   "release": {
-    "version": "2.7.9",
+    "version": "2.8.0",
     "buildNumber": 1,
     "platform": "windows",
     "channel": "stable",
-    "path": "releases/stable/2.7.9/build-1/windows/release.json",
-    "url": "https://raw.githubusercontent.com/Pawan-Bari/my-app-updates/main/releases/stable/2.7.9/build-1/windows/release.json"
+    "path": "releases/stable/2.8.0/build-1/windows/release.json",
+    "url": "https://raw.githubusercontent.com/Pawan-Bari/my-app-updates/main/releases/stable/2.8.0/build-1/windows/release.json"
   },
   "artifact": {
-    "path": "releases/stable/2.7.9/build-1/windows/Ctcma-2.7.9-windows.zip",
-    "url": "https://raw.githubusercontent.com/Pawan-Bari/my-app-updates/main/releases/stable/2.7.9/build-1/windows/Ctcma-2.7.9-windows.zip",
+    "path": "releases/stable/2.8.0/build-1/windows/Ctcma-2.8.0-windows.zip",
+    "url": "https://raw.githubusercontent.com/Pawan-Bari/my-app-updates/main/releases/stable/2.8.0/build-1/windows/Ctcma-2.8.0-windows.zip",
     "kind": "zip",
-    "sha256": "3c4118eda2c9760fdc7b8e541497ede73e188b37543dd975e8206df978b68e6a",
-    "length": 41057813
+    "sha256": "2a52fa4e7ac3e7b22e0f35f46b75f0c349fe918f7f11823bbfe17cfef2f563d3",
+    "length": 41057814
   }
 }
